@@ -20,3 +20,7 @@
 - Reduce discounts on low-profit products.
 - Focus marketing on high-value customers.
 - Improve stock management for fast-selling products.
+
+## 📊 Insights Dashboard
+
+![insights.md](images/insights.png)
