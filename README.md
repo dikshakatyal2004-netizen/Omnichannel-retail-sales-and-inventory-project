@@ -11,8 +11,7 @@ This project analyzes retail sales data to understand business performance, cust
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard](images/dashboard.png)
+
 
 ---
 
