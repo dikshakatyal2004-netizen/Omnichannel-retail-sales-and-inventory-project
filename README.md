@@ -10,6 +10,9 @@ This project analyzes retail sales data to understand business performance, cust
 - Git & GitHub (Version Control)
 
 ---
+## 📊  Dashboard
+
+![Readme.md](images/dashboard.png)
 
 
 
